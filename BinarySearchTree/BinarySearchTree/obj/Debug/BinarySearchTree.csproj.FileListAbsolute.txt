@@ -1,0 +1,9 @@
+C:\Users\Chief_Prange\Desktop\Dev\C#\RPSLS\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+C:\Users\Chief_Prange\Desktop\Dev\C#\RPSLS\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+C:\Users\Chief_Prange\Desktop\Dev\C#\RPSLS\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Users\Chief_Prange\Desktop\Dev\C#\RPSLS\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
+C:\Users\Chief_Prange\Desktop\Dev\C#\RPSLS\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+C:\Users\Chief_Prange\Desktop\Dev\C#\RPSLS\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
+C:\Users\Chief_Prange\Desktop\Dev\C#\BinarySearchTree\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+C:\Users\Chief_Prange\Desktop\Dev\C#\BinarySearchTree\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+C:\Users\Chief_Prange\Desktop\Dev\C#\BinarySearchTree\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
